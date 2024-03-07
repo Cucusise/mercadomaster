@@ -1,0 +1,47 @@
+*{
+    color: #040D12;
+}
+
+
+body{
+    background-color: #93B1A6;
+    font-family: "Madimi One", sans-serif;
+
+}
+
+.mainc{
+    width: 100%;
+    text-align: center;
+}
+
+.title{
+    font-size: 50px;
+}
+
+.subtitle{
+    font-size: 30px;
+}
+
+.button{
+    background-color: transparent;
+}
+
+.play {
+    background-color: transparent;
+    width: 0;
+    height: 0;
+    border-top: 20px solid transparent;
+    border-bottom: 20px solid transparent;
+    border-left: 30px solid #040D12;
+    cursor: pointer;
+  }
+
+  .button{
+    display: inline;
+    padding: 20px;
+  }
+
+  .content{
+    display: flex;
+    justify-content: center;
+  }
