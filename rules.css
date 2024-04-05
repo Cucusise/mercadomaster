@@ -1,0 +1,38 @@
+.mcontent{
+    display: flex;
+    justify-content: right;
+}
+
+.content{
+    font-family: "Madimi One", sans-serif;
+}
+
+.arrow{
+    display: flex;
+    justify-content: center;
+}
+
+.title{
+    font-size: 80px;
+}
+
+.list{
+    list-style: none;
+    font-size: 30px;
+    margin-right: 200px;
+}
+
+
+.content{
+    margin: 0 0 100px 0;
+  }
+
+.table{
+    width: 200px;
+
+}
+
+.tcontainer{
+    display: flex;
+    justify-content: center;
+}
