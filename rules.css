@@ -35,4 +35,14 @@
 .tcontainer{
     display: flex;
     justify-content: center;
+    margin: 10px;
+}
+
+img{
+    width: 300px;
+}
+
+.table{
+    display: flex;
+    align-items: center;
 }
